@@ -4,7 +4,7 @@
 block_cipher = None
 
 
-a = Analysis(['main.py'],
+a = Analysis(['main.pyw'],
              pathex=[],
              binaries=[],
              datas=[],
@@ -33,7 +33,7 @@ exe = EXE(pyz,
           upx=True,
           upx_exclude=[],
           runtime_tmpdir=None,
-          console=True,
+          console=False,
           disable_windowed_traceback=False,
           target_arch=None,
           codesign_identity=None,
