@@ -3,7 +3,7 @@ Pyrhon制作的网易云音乐歌曲获取工具
 
 ## 正常使用
 
-点此下载 Windows 版本：[https://cdn.staticaly.com/gh/Offline2008/Cloud-Music-Tool/main/dist/main.exe](https://cdn.staticaly.com/gh/Offline2008/Cloud-Music-Tool/main/dist/main.exe)
+点此下载 Windows 版本：[https://raw.fastgit.org/Offline2008/Cloud-Music-Tool/main/dist/main.exe](https://raw.fastgit.org/Offline2008/Cloud-Music-Tool/main/dist/main.exe)
 
 下载完成双击，按照提示即可使用
 
