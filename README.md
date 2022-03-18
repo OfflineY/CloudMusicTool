@@ -5,7 +5,9 @@ Pyrhon制作的网易云音乐歌曲获取工具
 
 点此下载 Windows 版本：[https://raw.fastgit.org/Offline2008/Cloud-Music-Tool/main/dist/main.exe](https://raw.fastgit.org/Offline2008/Cloud-Music-Tool/main/dist/main.exe)
 
-下载完成双击，按照提示即可使用
+下载完成双击打开，如图操作：
+
+![](https://gitee.com/offline2008/img/raw/master/Snipaste_2022-03-18_13-20-39.jpg)
 
 ## 如何使用
 ### 运行
