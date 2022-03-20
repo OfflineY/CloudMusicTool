@@ -42,6 +42,7 @@ Pyrhon制作的网易云音乐歌曲获取工具，它可以获取网易云音�
   - os：操作 cmd
 
 原理很简单，向官方 Api 发起请求（Api是自己抓包抓到的，不知道能用多久），截取返回的数据，然后打开链接，具体代码源里注释写的很清楚。
+详细可以看看我的这篇文章：[https://blog-yuanyubo.vercel.app/posts/Cloud-Music-Api](https://blog-yuanyubo.vercel.app/posts/Cloud-Music-Api)
 
 [^1]: 开发版与普通版区别就是一个有黑框，一个没有黑框
 
