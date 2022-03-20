@@ -2,6 +2,12 @@
 
 Pyrhon制作的网易云音乐歌曲获取工具，它可以获取网易云音乐在线歌曲的源链接。仅用于**学习与娱乐，请勿商用。**
 
+## 📑 目录
+ - [下载运行程序](#下载运行程序)
+ - [使用工具](#使用工具)
+ - [重构](#重构)
+ - [技术栈&原理](#技术栈&原理)
+
 ## 💾 下载运行程序
 
  - Windows 普通版本：[main.exe](https://raw.fastgit.org/Offline2008/Cloud-Music-Tool/main/dist/main.exe)
@@ -19,7 +25,7 @@ Pyrhon制作的网易云音乐歌曲获取工具，它可以获取网易云音�
 
 2. 使用 pyinstall 打包，安装此插件然后打开仓库内的 bat 即可打包。
 
-## ⚗ 技术栈 & 原理
+## 🎈 技术栈 & 原理
   - tkinter：窗体
   - tkinter.messagebox：提示框
   - urllib.request：请求 json
